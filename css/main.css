@@ -1,10 +1,15 @@
 body {
   background-color: #20201F;
+  
+  
+}
+
+header {
   background-image:"Kiyoti.github.io/Banner.png"("Banner.png");
   background-repeat:no-repeat;
+  background-attachment:;
   background-position: center top;
   font: white
-}
 
 nav {
   font:white;
