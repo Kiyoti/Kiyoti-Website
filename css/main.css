@@ -1,12 +1,9 @@
 body {
   background-color: #20201F;
-  }
-
-header {
   background-image:url('Banner.png');
   background-repeat:no-repeat;
   background-position: center top;
-}
+  }
 
 nav {
   display:inline;
