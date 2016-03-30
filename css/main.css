@@ -1,5 +1,8 @@
 body {
   background-color: #20201F;
+  background-image: ("Banner.png");
+  background-repeat:no-repeat;
+  background-position: center top;
   font: white
 }
 
