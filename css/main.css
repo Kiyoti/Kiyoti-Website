@@ -5,12 +5,10 @@ body {
 }
 
 header {
-  background-image:"Kiyoti.github.io/Banner.png"("Banner.png");
+  background-image:Kiyoti.github.io/Banner.png('Banner.png');
   background-repeat:no-repeat;
-  background-attachment:;
   background-position: center top;
-  font: white
 }
 nav {
-  font:white;
+  display:block;
 }
