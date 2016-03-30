@@ -5,7 +5,7 @@ body {
 }
 
 header {
-  background-image:Kiyoti.github.io/Banner.png('Banner.png');
+  background-image:url('Banner.png');
   background-repeat:no-repeat;
   background-position: center top;
 }
